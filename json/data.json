@@ -1,0 +1,9 @@
+{
+    "name":"pawni",
+    "phone":8595870667,
+    "skills":["python","n8n","agents"],
+    "address":{
+        "city":"delhi",
+        "pin":112
+    }
+}
